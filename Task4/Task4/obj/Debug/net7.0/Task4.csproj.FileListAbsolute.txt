@@ -1,0 +1,15 @@
+D:\DEV\csharp\Task4\Task4\bin\Debug\net7.0\Task4.exe
+D:\DEV\csharp\Task4\Task4\bin\Debug\net7.0\Task4.deps.json
+D:\DEV\csharp\Task4\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+D:\DEV\csharp\Task4\Task4\bin\Debug\net7.0\Task4.dll
+D:\DEV\csharp\Task4\Task4\bin\Debug\net7.0\Task4.pdb
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.csproj.AssemblyReference.cache
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.dll
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\refint\Task4.dll
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.pdb
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+D:\DEV\csharp\Task4\Task4\obj\Debug\net7.0\ref\Task4.dll
